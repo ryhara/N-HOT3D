@@ -4,7 +4,7 @@ Event-based(Neuromorphic) egocentric dataset for 3D hand extending HOT3D  in "Ev
 
 # Download
 
-Coming soon ...
+[N-HOT3D Dataset Access Request Form](https://forms.gle/qza3hqaK6AXH7JoZ7)
 
 
 # Citation 
