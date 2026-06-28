@@ -6,6 +6,10 @@ Event-based(Neuromorphic) egocentric dataset for 3D hand extending HOT3D  in "Ev
 
 [N-HOT3D Dataset Access Request Form](https://forms.gle/qza3hqaK6AXH7JoZ7)
 
+# Document
+
+[README_dataset.md](https://github.com/ryhara/N-HOT3D/blob/main/README_dataset.md)
+
 
 # Citation 
 ```
