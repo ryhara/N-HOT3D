@@ -35,3 +35,11 @@ and is distributed under the same license terms as the original dataset.
 
 
 The original HOT3D license is [here](https://github.com/facebookresearch/hot3d?tab=readme-ov-file#license).
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryhara/star-history/main/charts/ryhara_N-HOT3D_dark.svg">
+    <img alt="Star History" src="https://raw.githubusercontent.com/ryhara/star-history/main/charts/ryhara_N-HOT3D.svg">
+  </picture>
+</p>
