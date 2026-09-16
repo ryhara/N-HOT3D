@@ -3,7 +3,7 @@ N-HOT3D in "EventEgoHands: Event-based Egocentric 3D Hand Mesh Reconstruction" [
 
 
 <a href='https://ryhara.github.io/EventEgoHandsV2/'><img src='https://img.shields.io/badge/Project_Page-v2_(IEEE Access 2026)-blue'></a>
-<a href='#'><img src='https://img.shields.io/badge/arXiv-v2_(IEEE Access 2026)-red'></a>
+<a href='https://arxiv.org/abs/2609.17189'><img src='https://img.shields.io/badge/arXiv-v2_(IEEE Access 2026)-red'></a>
 
 <a href='https://ryhara.github.io/EventEgoHands/'><img src='https://img.shields.io/badge/Project_Page-v1_(ICIP 2025)-blue'></a>
 <a href='https://arxiv.org/abs/2505.19169'><img src='https://img.shields.io/badge/arXiv-v1_(ICIP2025)-red'></a>
