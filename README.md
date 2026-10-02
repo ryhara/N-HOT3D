@@ -28,6 +28,10 @@ N-HOT3D in "EventEgoHands: Event-based Egocentric 3D Hand Mesh Reconstruction" [
   author={Ryosei Hara and Wataru Ikeda and Masashi Hatano and Mariko Isogawa},
   journal={IEEE Access},
   year={2026},
+  volume={14},
+  number={},
+  pages={148943-148960},
+  doi={10.1109/ACCESS.2026.3735008},
 }
 ```
 
